@@ -1,0 +1,6 @@
+1. client page,
+2. lawyer's page,
+3. main home page,
+4. dashboard
+5. secure channel for lawyers
+6. upload photos
